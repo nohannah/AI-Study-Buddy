@@ -28,6 +28,19 @@ Together these modules create an adaptive learning ecosystem for students.
 - Study Planner
 - Student Dashboard
 ## Features
+Member 1- No Hannah (Material Processing)
+- Feature 1 (Answer Part A): By implementing automated pipelines for PDF/slide uploading and processing.
+- Feature 2 (Answer Part B): By applying text extraction and cleaning algorithms to segment content into logical units.
+Member 2 – Farzana (AI Core)
+- Feature 1 (Answer Part A): By generating multi-level simplified explanations (e.g., "Explain like I’m 10").
+- Feature 2 (Answer Part B): By utilizing automatic summarization to condense lengthy materials into key takeaways.
+Member 3 – Khatima (Question Generation)
+- Feature 1 (Answer Part A): By dynamically generating MCQs, True/False, and short-answer questions.
+- Feature 2 (Answer Part B): By categorizing these questions into specific difficulty levels (Easy, Medium, Hard) based on content complexity.
+
+Member 4 – Kobra (Planner & Support)
+- Feature 1 (Answer Part A): By generating personalized, data-driven daily and weekly study schedules.
+- Feature 2 (Answer Part B): By m
 
 ### Document Processing
 - PDF extraction
