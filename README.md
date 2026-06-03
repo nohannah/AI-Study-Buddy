@@ -49,7 +49,33 @@ Together these modules create an adaptive learning ecosystem for students.
 - Focus-area recommendations
 - Progress tracking
 ## Research Question 
-RQ-1: How can raw academic documents in different formats be changed into structured, and context-aware content for an AI tutoring setting?
-RQ-2: How can generative AI reduce cognitive load by reshaping complicated academic materials into more approachable and individualized learning formats?
-RQ-3: How well can an AI-driven system craft assessments that measure studentunderstanding across multiple cognitive levels and different question kinds?
-RQ-4: How can AI-supported educational systems improve academic performance viapersonalized study plans and mental health-aware learning assistance?
+- RQ-1: How can raw academic documents in different formats be changed into structured, and context-aware content for an AI tutoring setting?
+- RQ-2: How can generative AI reduce cognitive load by reshaping complicated academic materials into more approachable and individualized learning formats?
+- RQ-3: How well can an AI-driven system craft assessments that measure studentunderstanding across multiple cognitive levels and different question kinds?
+- RQ-4: How can AI-supported educational systems improve academic performance viapersonalized study plans and mental health-aware learning assistance?
+## Technology Stack
+
+Frontend:
+- Streamlit / Flask
+
+Backend:
+- Python
+
+AI Models:
+- Gemini
+- OpenAI
+- Local LLMs
+
+Libraries:
+- LangChain
+- PyMuPDF
+- OCR
+- Pandas
+- Scikit-Learn
+## Future Work
+
+- Multilingual support
+- Emotion-aware tutoring
+- Learning analytics dashboard
+- Explainable AI recommendations
+- Adaptive difficulty adjustment
