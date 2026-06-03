@@ -20,31 +20,13 @@ AI Study Buddy integrates four educational AI modules:
 4. Personalized Study Planning
 
 Together these modules create an adaptive learning ecosystem for students.
-### Architecture Diagram
-Document Upload
-        |
-        V
-+------------------+
-| Document Parsing |
-+------------------+
-        |
-        V
-+------------------+
-| AI Summarization |
-+------------------+
-        |
-        V
-+------------------+
-| Question Builder |
-+------------------+
-        |
-        V
-+------------------+
-| Study Planner    |
-+------------------+
-        |
-        V
-Student Dashboard
+## Architecture Diagram
+- Document Upload
+- Document Parsing 
+- AI Summarization
+- Question Builder 
+- Study Planner
+- Student Dashboard
 ## Features
 
 ### Document Processing
@@ -67,9 +49,7 @@ Student Dashboard
 - Focus-area recommendations
 - Progress tracking
 ## Research Question 
-RQ-1: How can raw academic documents in different formats be changed into structured, and context-aware content for an AI tutoring setting?
-RQ-2: How can generative AI reduce cognitive load by reshaping complicated academic materials into more approachable and individualized learning formats?
-RQ-3: How well can an AI-driven system craft assessments that measure student
-understanding across multiple cognitive levels and different question kinds?
-RQ-4: How can AI-supported educational systems improve academic performance via
-personalized study plans and mental health-aware learning assistance?
+RQ-1: How can raw academic documents in different formats be changed into structured, and context-aware content for an AI tutoring setting?
+RQ-2: How can generative AI reduce cognitive load by reshaping complicated academic materials into more approachable and individualized learning formats?
+RQ-3: How well can an AI-driven system craft assessments that measure studentunderstanding across multiple cognitive levels and different question kinds?
+RQ-4: How can AI-supported educational systems improve academic performance viapersonalized study plans and mental health-aware learning assistance?
